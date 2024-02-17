@@ -1,1 +1,2 @@
 Hello this is a practice for git
+I am adding stuff right now
